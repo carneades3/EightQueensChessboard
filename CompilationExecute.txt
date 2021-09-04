@@ -1,0 +1,9 @@
+Command to compile in Linux's terminal:
+javac -Xlint -Werror -cp .:.. *.java
+
+
+Command to execute in Linux's terminal:
+java -cp . NameOfClassWithStaticMainMethod
+
+Names Of Classes With Static Main Method:
+EightQueensTest
